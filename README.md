@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Newsletter](https://ksnape34.github.io/Newsletter-with-Success-Message/)
 
 ## My process
 
@@ -52,8 +52,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Katie Snape](https://www.your-site.com)
-- Frontend Mentor - [@KSnape34](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@KSnape34](https://www.twitter.com/yourusername)
+- Website - [Katie Snape](https://ksnape34.github.io/Portfolio/)
+- Frontend Mentor - [@KSnape34](https://www.frontendmentor.io/profile/KSnape34)
+- Twitter - [@KSnape34](https://github.com/KSnape34)
 
 
