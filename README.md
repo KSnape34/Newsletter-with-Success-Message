@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Newsletter with Success](https://github.com/user-attachments/assets/5116d70e-040f-4bd6-b9f6-69be7d2d000e)
+
 
 
 
