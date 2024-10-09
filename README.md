@@ -55,6 +55,6 @@ Users should be able to:
 
 - Website - [Katie Snape](https://ksnape34.github.io/Portfolio/)
 - Frontend Mentor - [@KSnape34](https://www.frontendmentor.io/profile/KSnape34)
-- Twitter - [@KSnape34](https://github.com/KSnape34)
+- GitHub - [@KSnape34](https://github.com/KSnape34)
 
 
